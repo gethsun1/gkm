@@ -1,4 +1,4 @@
-import ImgUrl from './assets/images/sednaitmeaivangoh.png';
+import ImgUrl from './assets/images/fibvangoh.png';
 
 
 const logotext = "GETHSUN";
